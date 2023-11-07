@@ -5,9 +5,10 @@
 <h3 align="center">A passionate Software developer from Moroccoh3>
  
 - 🌱 I’m currently learning **Python**
- 
+
+- 👨‍💻 All of my projects are available at [https://github.com/ayaelas?tab=repositories](https://github.com/ayaelas?tab=repositories)
+
 - 💬 Ask me about **C# , C, Java**
- 
 
 - 📫 How to reach me **assalharras@gmail.com**
 
