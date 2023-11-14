@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aya El Assal</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif">
-<h3 align="center">A passionate Software developer from Moroccoh<3>
+<h3 align="center">A passionate Software developer from Morocco </h3>
  
 - 🌱 I’m currently learning **Python**
 
